@@ -1,13 +1,3 @@
-/*
---------------------------------------------------------------------
-Last Edited: March 29, 2024 
---------------------------------------------------------------------
-Name   : BikeStores
-Link   : https://github.com/ShaidHasanShuvo/Bike_Stores
-Version: 1.0
---------------------------------------------------------------------
-*/
-
 -- drop tables
 DROP TABLE IF EXISTS sales.order_items;
 DROP TABLE IF EXISTS sales.orders;
