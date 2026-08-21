@@ -1,12 +1,3 @@
-/*
---------------------------------------------------------------------
-Last Edited: March 29, 2024 
---------------------------------------------------------------------
-Name   : BikeStores
-Link   : https://github.com/ShaidHasanShuvo/Bike_Stores
-Version: 1.0
---------------------------------------------------------------------
-*/
 -- create schemas
 CREATE SCHEMA production;
 go
