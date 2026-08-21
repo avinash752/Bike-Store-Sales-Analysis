@@ -22,9 +22,9 @@ Welcome to the Bike Store Dataset Repository! This repository contains data, SQL
 
 - **Tableau Dashboard**: Click on the provided Tableau dashboard link to access the interactive visualization. Feel free to explore various aspects of the Bike Store dataset using the intuitive interface provided by Tableau Public.
 
-## Feedback and Contributions
+## Author
 
-We welcome any feedback or contributions to improve this repository. If you have suggestions, enhancements, or additional analysis you'd like to share, please feel free to open an issue or submit a pull request. [Github](https://github.com/ShaidHasanShuvo) [Linkedin](https://www.linkedin.com/in/md-shaid-hasan-shuvo-6bb548218/)
+Avinash
 
 ## License
 
